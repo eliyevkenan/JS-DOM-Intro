@@ -21,9 +21,6 @@ btn.onclick=function(){
     newli.appendChild(spanclose);
     input.value=""
 
-//    newli.className='text-danger';
-//    newli.classList.add('text-danger');
-//    newli.classList.add('list-group-item')
 
     document.querySelector('ul').appendChild(newli)
 
