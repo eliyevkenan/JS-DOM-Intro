@@ -1,0 +1,148 @@
+
+.nav-bg{
+background-color: #F8F9FA;
+width: 100%;
+}
+.navbar-brand-1{
+    background-color: #F8F9FA;
+}
+.navbar-brand-2{
+    color: #000000E6;
+    
+}
+.navbar-brand-2-1{
+    padding-left: 10px; 
+}
+.navbar-brand-3{
+    color: #0000008C;
+}
+.btn-1{
+    width: 110px;
+    height: 38px;
+    border-radius: 5px;
+    border: 1px solid black; 
+    transition: 0.3s;  
+    background-color: #F8F9FA;
+}
+
+.btn-1:hover{
+    background-color: black;
+}
+.btn-1:hover span{
+    color: white;
+}
+.btn-1:hover i{
+    color: white;
+}
+
+.zero{
+    width: 220.51px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+/*----------------------------------------------------------*/
+
+.input-1 form{
+    display: flex;
+    justify-content: center !important;
+    margin-top: 45px;
+    color:black;
+}
+.input-1 form p{
+    margin-top: -28px;
+    margin-right: -95px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+/***********************************************************/
+.main{
+    width: 1502.4px;
+    height: 297.2px;
+    background-color: #212529;
+    width: 100%;
+}
+.main-text{
+    text-align: center;
+    margin-top: 100px;
+}
+.main-text h1{
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+   
+}
+.main-text p{
+    color: #FFFFFF80;
+    font-size: 20px;
+    
+}
+/***************************************************************/
+.boxes{
+    justify-content: center !important ;
+    margin-left: 100px !important;
+}
+.boxes .card{
+    float: left;
+    margin-top: 40px;
+    width:270px;
+    height: 375.66px;
+    margin-left: 60px ;
+}
+.card-1{
+    margin-top: 20px;
+}
+.btn-2{
+    width: 110px;
+    height: 38px;
+    border-radius: 5px;
+    border: 1px solid black; 
+    transition: 0.3s;  
+    background-color: #F8F9FA;
+}
+.btn-2:hover{
+    background-color: black;
+}
+.btn-2 span{
+    color: black;
+}
+.btn-2:hover span{
+    color: white;
+}
+.card-body h5,p{
+    text-align: center !important;
+}
+.card-body h5{
+    font-weight: 700;
+}
+.button-center{
+    text-align: center !important;
+}
+.button-center button{
+    margin-top: 9px !important;
+}
+.img-center{
+    text-align: center !important;
+}
+.button-center-1{
+    text-align: center !important;
+}
+.button-center-1 button{
+    margin-top: 31px !important;
+}
+/*********************************************************/
+
+.footer{
+    width: 100%;
+    height: 130px;
+    margin-top: 60px;
+    background-color: #212529;
+}
+.foot-text p{
+    color: #FFFFFF;
+    font-size: 16px;
+    padding-top: 60px;
+}

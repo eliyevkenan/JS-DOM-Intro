@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  .to-do{
+    background-color: #f44336;
+    height: 100px;
+  }
+  .btn-t{
+    margin-left: 649px;
+    margin-top: -55px;
+    
+  }
+  .btn-t button{
+      height: 39px;
+      width: 100px;
+      border-radius: 5px;
+      background-color: rgb(84, 84, 84);
+  }
+  .list-group-item{
+    width: 850px;
+    margin-left: -80px;
+    padding-top: 5px;
+    
+    box-shadow: 1px 1px black;
+  }
+  .list-group{
+      padding-top:14px ;
+  }
+  .list-group:hover .list-group-item{
+      background-color: #EEEEEE;
+  }
+  .mbl label{
+      text-align: center;
+      color: azure;
+  }
